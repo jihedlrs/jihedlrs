@@ -9,7 +9,8 @@ Software Engineering Student | Specialized in Web Technologies.
 - 🌱 I’m currently learning microservices architectures
 
 📫 You can contact me at Jihed.Lourassi@esprit.tn
+
 🌍 I'm based in Tunisa
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](www.linkedin.com/in/jihed-lourassi-a64898243)
