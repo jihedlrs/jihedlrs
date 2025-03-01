@@ -1,7 +1,13 @@
-## Hi there 👋
+ Hi 👋 My name is Jihed Lourassi
+===================================
+Software Engineering Student | Specialized in Web Technologies.
 
-<!--
-**jihedlrs/jihedlrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 I’m currently working on [your project]
+- 🤝 I’m looking to collaborate on DevOps projects
+- 🌱 I’m currently learning microservices architectures
+
+
+
 
 Here are some ideas to get you started:
 
