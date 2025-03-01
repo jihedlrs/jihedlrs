@@ -16,8 +16,7 @@ Software Engineering Student | Specialized in Web Technologies.
 
 <a href="https://www.facebook.com/jihed.lourassi.1"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href="https://www.instagram.com/jihedlourassi?igsh=NmUwczVmdjByZjJv"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href="https://linkedin.com/in/tonprofil"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-<a href="https://github.com/tonprofil"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-<a href="https://discord.com/users/tonid"><img src="https://img.icons8.com/fluency/48/000000/discord.png"/></a>
+<a href="www.linkedin.com/in/jihed-lourassi-a64898243"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href="https://github.com/jihedlrs"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 
 
