@@ -4,21 +4,12 @@
 ===================================
 Software Engineering Student | Specialized in Web Technologies.
 
-- 🚀 I’m currently working on [your project]
+- 🚀 I’m currently working on  a smart LMS (Learning Management System) web application
 - 🤝 I’m looking to collaborate on DevOps projects
 - 🌱 I’m currently learning microservices architectures
 
+📫 You can contact me at Jihed.Lourassi@esprit.tn
+🌍 I'm based in Tunisa
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
