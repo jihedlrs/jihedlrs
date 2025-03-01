@@ -13,4 +13,5 @@ Software Engineering Student | Specialized in Web Technologies.
 🌍 I'm based in Tunisa
 
 ## 🌐 Socials:
-[![LinkedIn](www.linkedin.com/in/jihed-lourassi-a64898243)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jihed-lourassi-a64898243)
+
