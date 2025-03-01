@@ -1,4 +1,4 @@
-![Coding Image](https://bairesdev.mo.cloudinary.net/blog/2021/11/cyber-security-web-development-and-work-in-it-concept-picture-id1289411982.jpg?tx=w_1920,q_auto)
+![Coding Image](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg)
  Hi 👋 My name is Jihed Lourassi
 ===================================
 Software Engineering Student | Specialized in Web Technologies.
