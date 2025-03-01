@@ -13,9 +13,11 @@ Software Engineering Student | Specialized in Web Technologies.
 🌍 I'm based in Tunisa
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihed-lourassi-a64898243/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://https://www.instagram.com/jihedlourassi?igsh=NmUwczVmdjByZjJv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonprofil)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/tonprofil)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/tonid)
+
+<a href="https://facebook.com/tonprofil"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href="https://instagram.com/tonprofil"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://linkedin.com/in/tonprofil"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href="https://github.com/tonprofil"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+<a href="https://discord.com/users/tonid"><img src="https://img.icons8.com/fluency/48/000000/discord.png"/></a>
+
 
