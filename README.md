@@ -1,4 +1,4 @@
-![Coding Image](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)
+![Coding Image](https://i.pinimg.com/736x/2e/b8/b0/2eb8b0b2220d724f164a6bffc9f28afe.jpg)
 
  Hi 👋 My name is Jihed Lourassi
 ===================================
