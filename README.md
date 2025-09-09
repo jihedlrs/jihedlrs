@@ -1,11 +1,11 @@
+
+
  Hi 👋 My name is Jihed Lourassi
+==================================
 
 
-
- 
 ![Coding Image](https://i.pinimg.com/736x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg)
 
-===================================
 Software Engineering Student | Specialized in Web Technologies.
 
 - 🚀 I’m currently working on  a smart LMS (Learning Management System) web application
